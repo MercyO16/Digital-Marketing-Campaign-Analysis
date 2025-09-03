@@ -1,24 +1,24 @@
-                    DIGITAL MARKETING CAMPAIGN PROJECT ANALYSIS REPORT(POWER BI)
-1. Introduction
+ #  DIGITAL MARKETING CAMPAIGN PROJECT ANALYSIS REPORT(POWER BI)                  
+1.## Introduction
 This report analyzes digital marketing campaign data using a Power BI dataset. The objective is to evaluate channel effectiveness, product performance, and campaign efficiency, while recommending actionable strategies to improve ROI and revenue growth.
-2. Data Source
+2.## Data Source
 •	File Used: PBI_Marketing_Data.xlsx( shared from Aixa Africa cohort 8 Data Analytics)
 •	Records: 1,000 campaign entries.
 •	Columns Include: Campaign ID, Product Name, Category, Ad Spend, Impressions, Clicks, Conversions, Revenue, ROI, Campaign Date, Marketing Channel.
-3. Problem Statement
+3.## Problem Statement
 Digital marketing teams invest across multiple platforms (Google Ads, Email, Instagram, Influencer, Referrals). However:
 •	ROI varies significantly across channels.
 •	Some campaigns consume budget but fail to convert.
 •	Product categories do not perform equally.
 The challenge is to identify where money should go for maximum returns and how to optimize underperforming areas.
-4. Pre-Analysis Questions
+4.## Pre-Analysis Questions
 Before analysis, the following  questions were defined:
 1.	Which channels deliver the highest ROI and revenue efficiency?
 2.	Which products and categories drive the most revenue vs. the highest ROI?
 3.	How do ad spend, clicks, and conversions correlate over time?
 4.	What are the seasonal trends (Nov 2024 – Feb 2025)?
 5.	Are there cost inefficiencies in CPC (Cost per Conversion) or CTR (Click-Through Rate)?
-5. Data Cleaning & Preparation
+5.## Data Cleaning & Preparation
  The cleaning was performed in Power BI 
 •	Removed Missing Values: Dataset had no nulls or duplicate values
 •	Converted Date: Campaign Date formatted to Date for time series.
@@ -37,7 +37,7 @@ o	CPM (Cost Per Mille):
 o	CPM=DIVIDE (SUM (marketing [Ad Spend (INR)]), SUM (marketing [Impressions]),0)*1000
 o	Total Revenue = SUM (marketing [Revenue (INR)])
 •	Outliers in ROI checked, some campaigns with very high returns were retained as genuine cases (low-cost but high-conversion campaigns).
-      Insights & Findings
+    ##  Insights & Findings
      1 Overall Performance (Dashboard KPIs)
 •	Impressions: 242M
 •	Clicks: 12M (CTR = 5.09%, healthy engagement).
