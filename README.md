@@ -1,2 +1,3 @@
-# Digital-Marketing-Campaign-Analysis
-A data-driven digital marketing analysis that tracks ad spend, clicks, conversions, and ROI to uncover top-performing campaigns and guide smarter marketing decisions
+1. Introduction
+This report analyzes digital marketing campaign data using a Power BI dataset. The objective is to evaluate channel effectiveness, product performance, and campaign efficiency, while recommending actionable strategies to improve ROI and revenue growth.
+
