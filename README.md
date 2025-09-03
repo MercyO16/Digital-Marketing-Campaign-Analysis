@@ -106,7 +106,7 @@ o	Total Revenue = SUM (marketing [Revenue (INR)])
 ## Conclusion
 The campaigns were highly successful, generating massive ROI (₦142 per ₦1 spent). However, results were uneven across channels and categories. By reallocating budget to high-performing products and channels, and aligning campaign spend with seasonal demand, the business can unlock even higher revenue and efficiency in the next campaign cycle.
 
-
+DM Campaign Analysis Dashboard 2.pdf
                   
 
 
