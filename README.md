@@ -1,7 +1,9 @@
  #  DIGITAL MARKETING CAMPAIGN PROJECT ANALYSIS REPORT(POWER BI)                  
-1.# Introduction
+1.## Introduction 
+
 This report analyzes digital marketing campaign data using a Power BI dataset. The objective is to evaluate channel effectiveness, product performance, and campaign efficiency, while recommending actionable strategies to improve ROI and revenue growth.
 2.## Data Source
+
 •	File Used: PBI_Marketing_Data.xlsx( shared from Aixa Africa cohort 8 Data Analytics)
 •	Records: 1,000 campaign entries.
 •	Columns Include: Campaign ID, Product Name, Category, Ad Spend, Impressions, Clicks, Conversions, Revenue, ROI, Campaign Date, Marketing Channel.
