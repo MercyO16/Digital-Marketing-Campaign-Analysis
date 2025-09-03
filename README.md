@@ -2,12 +2,16 @@
 1.## Introduction 
 
 This report analyzes digital marketing campaign data using a Power BI dataset. The objective is to evaluate channel effectiveness, product performance, and campaign efficiency, while recommending actionable strategies to improve ROI and revenue growth.
-2.## Data Source
 
+
+2.## Data Source
 •	File Used: PBI_Marketing_Data.xlsx( shared from Aixa Africa cohort 8 Data Analytics)
 •	Records: 1,000 campaign entries.
 •	Columns Include: Campaign ID, Product Name, Category, Ad Spend, Impressions, Clicks, Conversions, Revenue, ROI, Campaign Date, Marketing Channel.
+
+
 3.## Problem Statement
+
 Digital marketing teams invest across multiple platforms (Google Ads, Email, Instagram, Influencer, Referrals). However:
 •	ROI varies significantly across channels.
 •	Some campaigns consume budget but fail to convert.
